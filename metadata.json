@@ -1,0 +1,6 @@
+{
+  "name": "Swipe Clean",
+  "description": "Clean up your photos and videos effortlessly with intuitive swipe sorting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
