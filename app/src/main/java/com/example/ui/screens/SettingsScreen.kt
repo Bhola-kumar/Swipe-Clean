@@ -446,7 +446,7 @@ fun SettingsScreen(
                 )
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
-                    text = "Effective Date: October 2026 • Version 3.0",
+                    text = "Effective Date: October 2026 • Version ${com.example.BuildConfig.VERSION_NAME}",
                     style = MaterialTheme.typography.labelMedium,
                     color = Amber700,
                     fontWeight = FontWeight.SemiBold
